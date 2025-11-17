@@ -108,16 +108,17 @@ python app.py
 Go to:
 ➡ http://127.0.0.1:5000/
 
-🚧 Future Work
+## 🚧 Future Work
 
 - Personalized smart-home automation
 - Long-term memory architecture
 - Arabic conversation integration
 - Daily task scheduler module
 
-👨‍💻 Author 
+## 👨‍💻 Author 
 
 **Eng. Habiba Mohammad** 📩 habibamohamad062@gmail.com
+
 
 
 
